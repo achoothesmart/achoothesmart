@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @achoothesmart
+- 👋 Hi, I’m Prasanna Ashok
 - 👀 I’m interested in coding / developing solutions to interesting problems | web applications
 - 🌱 I’m currently learning javascript | webpack 
 - 📫 Reach me at v.prasannaashok@gmail.com
